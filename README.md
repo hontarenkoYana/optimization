@@ -15,7 +15,8 @@ Optimization methods.
 - point-solution;
 - resut of function in this point;
 - how many iteration was.
-**Manydimensional methods:**
+
+**Multidimensional methods:**
 1. [Method coordinate descent](https://en.wikipedia.org/wiki/Coordinate_descent).
 2. [Method of gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
 3. [Method of configuration(Hooke-Jeeves)](https://www.researchgate.net/publication/266053442_Application_of_Hooke_Jeeves_Algorithm_in_Optimizing_Fusion_Zone_Grain_Size_and_Hardness_of_Pulsed_Current_Micro_Plasma_Arc_Welded_AISI_304L_Sheets).
