@@ -20,10 +20,12 @@ Optimization methods.
 2. [Method of gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
 3. [Method of configuration(Hooke-Jeeves)](https://www.researchgate.net/publication/266053442_Application_of_Hooke_Jeeves_Algorithm_in_Optimizing_Fusion_Zone_Grain_Size_and_Hardness_of_Pulsed_Current_Micro_Plasma_Arc_Welded_AISI_304L_Sheets).
 4. [Nelder-Mead method](https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method).
+
 *Input*: 
 - x0 - starting point;
 - eps - accuracy of the solution;
 - *in Nelder-Mead method* x1, x2, x3 - point of triangle.
+
 *Result*:
 - point-solution;
 - resut of function in this point;
