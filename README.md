@@ -6,11 +6,13 @@ Optimization methods.
 3. [Method chord](http://egyankosh.ac.in/bitstream/123456789/18067/1/Unit-3.pdf).
 4. [Midpoint method](https://en.wikipedia.org/wiki/Midpoint_method).
 5. [Newton-Raphson method](http://butler.cc.tut.fi/~piche/numa/lecture0506.pdf).
+
 *Input*: 
 - a, b - segment on which should be the solution of the equation;
 - delta - small number;
 - eps - accuracy of the solution;
 - x0 - starting point.
+
 *Result*:
 - point-solution;
 - resut of function in this point;
